@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AugustinApplication<augustin>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.augusto.example.augustin.AugustinApplication",
+            "projectName": "augustin",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
